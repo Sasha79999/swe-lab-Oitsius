@@ -8,3 +8,4 @@ obj/
 .env
 appsettings.Development.json
 *.log
+secret.txt
