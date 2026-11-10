@@ -5,3 +5,8 @@
 **Тип системи:** Web (веб-додаток).
 
 **Автор:** Ойцюсь Олександр
+
+## Технології
+- Backend: Python / Java
+- Frontend: React / Vue
+- База даних: PostgreSQL
