@@ -7,6 +7,6 @@
 **Автор:** Ойцюсь Олександр
 
 ## Технології
-- Backend: Python / Java
+- Backend: C# / ASP.NET Core
 - Frontend: React / Vue
 - База даних: PostgreSQL
